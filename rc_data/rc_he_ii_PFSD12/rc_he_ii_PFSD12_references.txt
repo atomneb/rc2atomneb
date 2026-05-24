@@ -1,0 +1,3 @@
+he_ii_wavelength & Porter, R. L., Ferland, G. J., Storey, P. J. and Detisch, M. J., MNRAS, 425L, 28, 2012
+he_ii_aeff_PFSD12 & Porter, R. L., Ferland, G. J., Storey, P. J. and Detisch, M. J., MNRAS, 425L, 28, 2012
+he_ii_aeff_PFSD13 & Porter, R. L., Ferland, G. J., Storey, P. J. and Detisch, M. J., MNRAS, 433L, 89, 2013

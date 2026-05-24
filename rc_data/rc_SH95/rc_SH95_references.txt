@@ -1,0 +1,16 @@
+h_ii_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+h_ii_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+he_iii_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+he_iii_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+li_iv_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+li_iv_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+be_v_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+be_v_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+b_vi_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+b_vi_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+c_vii_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+c_vii_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+n_viii_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+n_viii_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+o_ix_aeff_a & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995
+o_ix_aeff_b & Storey, P. J. and Hummer, D. G., MNRAS, 272, 41S, 1995

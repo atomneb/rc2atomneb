@@ -1,0 +1,6 @@
+c_iii_aeff & Davey, A. R., Storey, P. J. and Kisielius, R., Astron.Astrophys.Suppl., 142, 85, 2000
+n_iii_aeff & Escalante, Vladimir and Victor, G. A., ApJS, 73, 513, 1990
+n_iii_br & Escalante, Vladimir and Victor, G. A., ApJS, 73, 513, 1990
+o_iii_aeff & Storey, P. J., Astron.Astrophys. 282, 999, 1994; Liu, X.-W., Storey, P. J., Barlow, M. J., and Clegg, R. E. S., MNRAS, 272, 369, 1995
+o_iii_br & Storey, P. J., Astron.Astrophys. 282, 999, 1994; Liu, X.-W., Storey, P. J., Barlow, M. J., and Clegg, R. E. S., MNRAS, 272, 369, 1995
+ne_iii_aeff & Kisielius, R., Storey, P. J., Davey, A. R. and Neale, L. T., Astron.Astrophys.Suppl., 133, 257, 1998; Storey (unpublished)

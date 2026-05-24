@@ -1,0 +1,3 @@
+
+https://cdsarc.cds.unistra.fr/viz-bin/cat/VI/150
+https://cdsarc.cds.unistra.fr/ftp/VI/150/DataFiles/OIIlines_ABC
