@@ -60,8 +60,8 @@ writes:
 ```text
 atomic-data-rc/
   rc_collection.fits
-  rc_PPB91.fits
   rc_SH95.fits
+  rc_PPB91.fits
   rc_he_ii_PFSD12.fits
   rc_n_iii_FSL13.fits
   rc_o_iii_SSB17.fits
